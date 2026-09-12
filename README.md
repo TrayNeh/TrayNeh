@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 
 * 🧑‍💻 Estoy estudiando **programación y desarrollo de software**
-* ☕ Actualmente estoy aprendiendo **Java**
+* ☕ Actualmente estoy aprendiendo **JavaScript**
 * 💻 Trabajo con **Python**
 * 🐧 Estoy interesado en **Linux**
 * 🖥️ Estoy interesado en **sistemas operativos y desarrollo de aplicaciones**
