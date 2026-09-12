@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy TrayNeh
 
-### 💻 Programador • Entusiasta de Linux • Gamer
+### 💻 Programador & entusiasta que la tecnologia
 
 </div>
 
@@ -10,13 +10,12 @@
 
 ## 🚀 Sobre mí
 
-* 🧑‍💻 Estoy estudiando **programación y desarrollo de software**
-* ☕ Actualmente estoy aprendiendo **JavaScript**
-* 💻 Trabajo con **Python**
-* 🐧 Estoy interesado en **Linux**
-* 🖥️ Estoy interesado en **sistemas operativos y desarrollo de aplicaciones**
+* 🧑‍💻 Estoy estudiando **desarrollo de software y ciberseguridad**
+* ☕ Actualmente estoy aprendiendo **Java**
+* 💻 Trabajo principalmente con **Python**
+* 🖥️ Estoy interesado en **sistemas operativos, software y AI**
 * 🛠️ Estoy trabajando en mi propio proyecto de Linux: **AlfaOS**
-* 🎮 Me encantan **los videojuegos y el hardware de PC**
+* 🎮 Me encantan **videojuegos y software**
 * ⛏️ Minecraft es uno de mis juegos principales
 * 📚 Siempre estoy aprendiendo algo nuevo
 
@@ -27,7 +26,7 @@
 ### Programación
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python">
+  <img src="https://skillicons.dev/icons?i=python,java,lua">
 </p>
 
 ### Desarrollo
@@ -38,9 +37,9 @@
 
 ---
 
-## 🔥 Proyectos destacados
+## 🔥 Mis projectos
 
-### 🐧 AlfaOS
+### 🅰️ AlfaOS
 
 **AlfaOS** es mi proyecto personal de distribución de Linux.
 
@@ -60,7 +59,7 @@ Estoy desarrollando AlfaOS con el objetivo de crear un **sistema operativo moder
 
 Está **listo para usar**, es completamente **gratuito y de código abierto**. Puedes utilizarlo, modificarlo, estudiar su código fuente o contribuir al proyecto.
 
-**✨ Características:**
+**Características:**
 
 * 🔑 Generación de contraseñas seguras
 * 📋 Copiar contraseñas directamente al portapapeles
@@ -100,7 +99,7 @@ Está **listo para usar**, es completamente **gratuito y de código abierto**. P
 
 <div align="center">
 
-💬 **¿Quieres hablar sobre programación, Linux, AlfaOS o videojuegos?**
+💬 **¿Quieres hablar sobre programación, Linux, mis projectos o ciberseguridad?**
 
 ¡No dudes en contactarme!
 
@@ -108,7 +107,7 @@ Está **listo para usar**, es completamente **gratuito y de código abierto**. P
 
 ---
 
-## 😺 GitHub
+## 😺 Mi GitHub
 
 <!--- Estadísticas y trofeos (inicio) -->
 
