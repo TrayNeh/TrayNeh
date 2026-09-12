@@ -1,36 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm TrayNeh
+# 👋 Hola, soy TrayNeh
 
-### 💻 Programmer • Linux Enthusiast • Gamer
+### 💻 Programador • Entusiasta de Linux • Gamer
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-* 🧑‍💻 I'm learning **programming and software development**
-* ☕ Currently learning **Java**
-* 💻 Working with **Python**
-* 🐧 Interested in **Linux**
-* 🖥️ Interested in **operating systems and app development**
-* 🛠️ Working on my own Linux project: **AlfaOS**
-* 🎮 I love **gaming and PC hardware**
-* ⛏️ Minecraft is one of my main games
-* 📚 Always learning something new
+* 🧑‍💻 Estoy aprendiendo **programación y desarrollo de software**
+* ☕ Actualmente estoy aprendiendo **Java**
+* 💻 Trabajo con **Python**
+* 🐧 Estoy interesado en **Linux**
+* 🖥️ Estoy interesado en **sistemas operativos y desarrollo de aplicaciones**
+* 🛠️ Estoy trabajando en mi propio proyecto de Linux: **AlfaOS**
+* 🎮 Me encantan **los videojuegos y el hardware de PC**
+* ⛏️ Minecraft es uno de mis juegos principales
+* 📚 Siempre estoy aprendiendo algo nuevo
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
-### Programming
+### Programación
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python">
 </p>
 
-### Development
+### Desarrollo
 
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,github,linux,windows">
@@ -38,57 +38,53 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Proyectos destacados
 
 ### 🐧 AlfaOS
 
-**AlfaOS** is my personal Linux distribution project.
+**AlfaOS** es mi proyecto personal de distribución de Linux.
 
-I'm building AlfaOS with the goal of creating a **modern, smooth and user-friendly operating system**, while learning more about Linux, programming and how operating systems work.
+Estoy desarrollando AlfaOS con el objetivo de crear un **sistema operativo moderno, fluido y fácil de usar**, mientras aprendo más sobre Linux, programación y el funcionamiento de los sistemas operativos.
 
-🚧 **AlfaOS is currently in development.**
+🚧 **AlfaOS está actualmente en desarrollo.**
 
-Interested in AlfaOS or want to know more about the project?
+¿Te interesa AlfaOS o quieres saber más sobre el proyecto?
 
-**Feel free to contact me through my social networks or GitHub. I'd be happy to share more about the project and its development.**
+**No dudes en contactarme a través de mis redes sociales o GitHub. Estaré encantado de compartir más información sobre el proyecto y su desarrollo.**
 
 ---
 
 ### 🔐 Passworlding
 
-**Passworlding** is an open-source password generator designed to make creating strong and secure passwords simple.
+**Passworlding** es un generador de contraseñas de código abierto diseñado para crear contraseñas seguras de forma sencilla.
 
-It is **ready to use** and completely **free and open source**. You can use it, modify it, study the source code or contribute to the project.
+Está **listo para usar**, es completamente **gratuito y de código abierto**. Puedes utilizarlo, modificarlo, estudiar su código fuente o contribuir al proyecto.
 
-**✨ Features:**
+**✨ Características:**
 
-* 🔑 Generate strong and secure passwords
-* 📋 Copy passwords directly to the clipboard
-* 💾 Save generated passwords
-* 📊 Password strength indicator
-* 🎨 Customizable themes
-* 🖥️ Simple and user-friendly interface
-* 🔓 Free and open source
-* 🚀 Ready to use
+* 🔑 Generación de contraseñas seguras
+* 📋 Copiar contraseñas directamente al portapapeles
+* 💾 Guardar contraseñas generadas
+* 📊 Indicador de seguridad de la contraseña
+* 🎨 Temas personalizables
+* 🖥️ Interfaz sencilla y fácil de usar
+* 🔓 Gratuito y de código abierto
 
-**🛠️ Built with:**
+**Desarrollado con: Python**
 
-* 🐍 Python
+**Estado:** 🟢 Listo para usar
 
-**📌 Status:** 🟢 Ready to use
+¿Quieres probarlo, contribuir al proyecto o aprender cómo funciona?
 
-Want to check it out, contribute or learn how it works?
-
-👉 **Visit the Passworlding repository and feel free to use or contribute to the project.**
-
+👉 **Visita el repositorio de Passworlding y siéntete libre de utilizarlo o contribuir al proyecto.**
 
 ---
 
-## 📫 Socials
+## 📫 Mis redes sociales
 
 <div align="center">
 
-### 🌐 Find me on
+### 🌐 Puedes encontrarme en
 
 <a href="https://www.reddit.com/user/TrayNeh/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
@@ -104,32 +100,38 @@ Want to check it out, contribute or learn how it works?
 
 <div align="center">
 
-💬 **Want to talk about programming, Linux, AlfaOS or gaming?**
+💬 **¿Quieres hablar sobre programación, Linux, AlfaOS o videojuegos?**
 
-Feel free to contact me!
-
-</div>
-
----
-
-
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TrayNeh&hide_border=true">
+¡No dudes en contactarme!
 
 </div>
 
 ---
----
 
-<div align="center">
+## 😺 GitHub
 
-### ⚡ Keep learning. Keep building.
+<!--- Estadísticas y trofeos (inicio) -->
 
-<img src="https://komarev.com/ghpvc/?username=TrayNeh&style=for-the-badge">
+<p align="center">
 
-</div>
+<table align="left">
+<tr border="none">
+
+<td width="60%" align="center">
+
+<img title="🔥 Estadísticas de racha de GitHub" alt="Racha de GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=TrayNeh&theme=dark&hide_border=false" />
+
+</td>
+
+<td width="40%" align="center">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TrayNeh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+
+</tr>
+</table>
+
+</p>
+
+<!--- Estadísticas y trofeos (final) -->
