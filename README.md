@@ -21,15 +21,15 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Lenguajes y herramientas
 
-### Programación
+### Mis lenguajes:
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java">
 </p>
 
-### Desarrollo
+### Mis herramientas:
 
 <p>
   <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,github,linux,windows">
