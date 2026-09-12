@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-* 🧑‍💻 Estoy aprendiendo **programación y desarrollo de software**
+* 🧑‍💻 Estoy estudiando **programación y desarrollo de software**
 * ☕ Actualmente estoy aprendiendo **Java**
 * 💻 Trabajo con **Python**
 * 🐧 Estoy interesado en **Linux**
