@@ -26,7 +26,7 @@
 ### Programación
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,lua">
+  <img src="https://skillicons.dev/icons?i=python,java">
 </p>
 
 ### Desarrollo
