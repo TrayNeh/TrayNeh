@@ -1,96 +1,84 @@
 <div align="center">
 
-# 👋 Hola, soy TrayNeh
+# 👋 Hi, I'm TrayNeh
 
-### 💻 Programador & entusiasta que la tecnologia
+### 💻 Developer & Technology Enthusiast
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-* 🧑‍💻 Estoy estudiando **desarrollo de software y ciberseguridad**
-* ☕ Actualmente estoy aprendiendo **Java**
-* 💻 Trabajo principalmente con **Python**
-* 🖥️ Estoy interesado en **sistemas operativos, software y AI**
-* 🛠️ Estoy trabajando en mi propio proyecto de Linux: **AlfaOS**
-* 🎮 Me encantan **videojuegos y software**
-* ⛏️ Minecraft es uno de mis juegos principales
-* 📚 Siempre estoy aprendiendo algo nuevo
+* 🧑‍💻 I'm studying **software development and cybersecurity**
+* 💻 I mainly work with **Python, Rust, JavaScript and TypeScript**
+* 🖥️ I'm interested in **operating systems, software and AI**
+* 🛠️ I'm currently working on **FARO**
+* 🎮 I enjoy **video games and software**
+* 📚 Always learning something new
 
 ---
 
-## 🛠️ Lenguajes y herramientas
+## 🛠️ Languages & Tools
 
-### Mis lenguajes:
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java">
+  <img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript">
 </p>
 
-### Mis herramientas:
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,github,linux,windows">
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux,windows">
 </p>
 
 ---
 
-## 🔥 Mis projectos
+## 🔥 My Projects
 
-### 🅰️ AlfaOS
+### 🛰️ FARO
 
-**AlfaOS** es mi proyecto personal de distribución de Linux.
+**FARO** is a project focused on making server management simpler, more accessible and intuitive.
 
-Estoy desarrollando AlfaOS con el objetivo de crear un **sistema operativo moderno, fluido y fácil de usar**, mientras aprendo más sobre Linux, programación y el funcionamiento de los sistemas operativos.
+Designed to bring essential server management tools together in a single interface, FARO aims to simplify administration, monitoring and everyday server tasks.
 
-🚧 **AlfaOS está actualmente en desarrollo.**
-
-¿Te interesa AlfaOS o quieres saber más sobre el proyecto?
-
-**No dudes en contactarme a través de mis redes sociales o GitHub. Estaré encantado de compartir más información sobre el proyecto y su desarrollo.**
+🚧 **FARO is currently under development.**
 
 ---
 
 ### 🔐 Passworlding
 
-**Passworlding** es un generador de contraseñas de código abierto diseñado para crear contraseñas seguras de forma sencilla.
+**Passworlding** is an open-source password generator designed to create strong passwords easily.
 
-Está **listo para usar**, es completamente **gratuito y de código abierto**. Puedes utilizarlo, modificarlo, estudiar su código fuente o contribuir al proyecto.
+It's **ready to use**, completely **free and open source**. You can use it, modify it, explore its source code or contribute to the project.
 
-**Características:**
+**Features:**
 
-* 🔑 Generación de contraseñas seguras
-* 📋 Copiar contraseñas directamente al portapapeles
-* 💾 Guardar contraseñas generadas
-* 📊 Indicador de seguridad de la contraseña
-* 🎨 Temas personalizables
-* 🖥️ Interfaz sencilla y fácil de usar
-* 🔓 Gratuito y de código abierto
+* 🔑 Generate strong passwords
+* 📋 Copy passwords directly to the clipboard
+* 💾 Save generated passwords
+* 📊 Password strength indicator
+* 🎨 Customizable themes
+* 🖥️ Simple and user-friendly interface
+* 🔓 Free and open source
 
-**Desarrollado con: Python**
+**Built with: Python**
 
-**Estado:** 🟢 Listo para usar
+**Status:** 🟢 Ready to use
 
-¿Quieres probarlo, contribuir al proyecto o aprender cómo funciona?
-
-👉 **Visita el repositorio de Passworlding y siéntete libre de utilizarlo o contribuir al proyecto.**
+👉 **Visit the Passworlding repository and feel free to use it or contribute to the project.**
 
 ---
 
-## 📫 Mis redes sociales
+## 📫 Socials
 
 <div align="center">
 
-### 🌐 Puedes encontrarme en
+### 🌐 Find me on
 
 <a href="https://www.reddit.com/user/TrayNeh/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@TrayNeh">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
@@ -99,17 +87,17 @@ Está **listo para usar**, es completamente **gratuito y de código abierto**. P
 
 <div align="center">
 
-💬 **¿Quieres hablar sobre programación, Linux, mis projectos o ciberseguridad?**
+💬 **Want to talk about programming, Linux, my projects or cybersecurity?**
 
-¡No dudes en contactarme!
+Feel free to reach out!
 
 </div>
 
 ---
 
-## 😺 Mi GitHub
+## 😺 My GitHub
 
-<!--- Estadísticas y trofeos (inicio) -->
+<!--- GitHub stats and trophies (start) -->
 
 <p align="center">
 
@@ -118,7 +106,7 @@ Está **listo para usar**, es completamente **gratuito y de código abierto**. P
 
 <td width="60%" align="center">
 
-<img title="🔥 Estadísticas de racha de GitHub" alt="Racha de GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=TrayNeh&theme=dark&hide_border=false" />
+<img title="🔥 GitHub streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TrayNeh&theme=dark&hide_border=false" />
 
 </td>
 
@@ -133,4 +121,5 @@ Está **listo para usar**, es completamente **gratuito y de código abierto**. P
 
 </p>
 
-<!--- Estadísticas y trofeos (final) -->
+<!--- GitHub stats and trophies (end) -->
+```
